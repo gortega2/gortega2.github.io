@@ -2,6 +2,11 @@ import logo from './logo.svg';
 import './App.css';
 import React from "react";
 
+import About from "./components/About";
+import Contact from "./components/Contact";
+import Navbar from "./components/Navbar";
+import Projects from "./components/Projects";
+import Skills from "./components/Skills";
 /*
 function App() {
   return (
@@ -25,9 +30,15 @@ function App() {
 }
 */
 export default function App() {
+
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <main className="text-gray-400 bg-zinc-900 body-font">
+      <Navbar />
+      <About />
+      <Projects />
+      <Skills />
+      <Contact />
+
+    </main>
   );
 }
