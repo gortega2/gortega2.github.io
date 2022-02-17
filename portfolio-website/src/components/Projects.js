@@ -12,7 +12,7 @@ export default function Projects() {
                         Projects over the years
                     </h1>
                     <p>
-                        Extra description goes here.
+                        Take a look at some of the projects I've done. 
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">

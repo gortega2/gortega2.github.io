@@ -14,7 +14,8 @@ export const projects = [
         description: "Project for CMPUT 455, a machine learning course that has an AI learn to play GO using techniques such as search, knowledge, and simulation." 
         + " Programmed using python.",
         image:require("../images/go.jpeg"),
-        link: 'https://github.com/EPostill/CMPUT455Assign2',
+        link:''
+        //link: 'https://github.com/EPostill/CMPUT455Assign2',
     },
     {
         title: 'BIM Rule Editor',
@@ -22,7 +23,8 @@ export const projects = [
         description: 'An application that was created for an actual client for CMPUT 401, a software process and product management course.'
         + ' Rule designer interface in Unity to help building designers create an environment in 3D',
         image:require('../images/401_proj.png'),
-        link:'https://github.com/cmput401-winter2019/bim-rule-editor#readme',
+        link:''
+        //link:'https://github.com/cmput401-winter2019/bim-rule-editor#readme',
     },
     {
         title:'Medicam',

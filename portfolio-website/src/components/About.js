@@ -12,25 +12,13 @@ export default function About() {
            </div>
            <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center pl-20">
            <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-               HI, IM GUS.
+               Hey, I'm Gus.
 
-            <br className="hidden lg:inline-block" /> Design is not my passion.
+            <br className="hidden lg:inline-block" /> It's nice to meet you.
             </h1>
             <p classname="mb-8 leading-relaxed">
-                Placeholder text goes here explaining stuff.
-            </p>
-            <div classname='flex justify-center'>
-                <a
-                href="#contact"
-                className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-                    Work with me
-                </a>
-                <a
-                 href="#projects"
-                 className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-                   See my past works
-                </a>
-                </div>
+                I'm a expectant graudate from the University of Alberta, hoping to start my career. Scroll down to see what skills I've learned and what projects I've done
+                during my time in university.             </p>
            </div>
            </div>
         </section>
